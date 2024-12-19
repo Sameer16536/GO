@@ -2,7 +2,8 @@ package main
 
 import "fmt"
 
-// Structs allow you to encapsulate these fields into a single entity.
+// Structs allow you to encapsulate these fields into a single entity. /// i.e Collection : Grouping same category entities
+
 //lowercase name of type means its private
 //Uppercase public
 type person struct {
